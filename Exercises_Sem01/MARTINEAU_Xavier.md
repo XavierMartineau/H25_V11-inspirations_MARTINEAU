@@ -6,7 +6,7 @@
 
 ## **Interet dans le _multimedia_**
 
-### mon interet en multimedia est que jadoore tout ce qui touche a la ***technologie***. Jadore tout ce qui est interactif, creation de site web. En *gros*  jadore crée et inventer  
+### mon interet en multimedia est que jadore tout ce qui touche a la ***technologie***. Jadore tout ce qui est interactif, creation de site web. En *gros*  jadore crée et inventer  
 
 ## ce qui me plait en **TIM**
 
