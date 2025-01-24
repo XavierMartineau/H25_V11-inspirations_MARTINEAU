@@ -11,5 +11,5 @@
 ## ce qui me plait en **TIM**
 
 ### ce qui me plait en multimedia en tim cest la grand creativité et les projet construit par les eleves. <br>
-Jadore cree et realiser des projet. <br>
-La facon que la matiere est enseigner est tres innteresante, les variete de site web pour aider et les ressources fournis.
+### Jadore cree et realiser des projet. <br>
+### La facon que la matiere est enseigner est tres innteresante, les variete de site web pour aider et les ressources fournis.
