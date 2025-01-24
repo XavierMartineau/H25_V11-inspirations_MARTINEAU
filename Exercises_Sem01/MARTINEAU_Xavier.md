@@ -18,4 +18,4 @@
 
 ### le projet de web 3 *si tu savais ce que je sais*
 
-### le projet de web 3 *si tu savais ce que je sais* a ete un projet que jai adorer faire
+### le projet de web 3 *si tu savais ce que je sais* a ete un projet que jai adorer faire car il etais tres amusant et creatif a faire. il consistais a cree un site web format questionaire interactif
