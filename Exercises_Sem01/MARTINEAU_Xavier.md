@@ -7,3 +7,7 @@
 ## **Interet dans le _multimedia_**
 
 ### mon interet en multimedia est que jadoore tout ce qui touche a la ***technologie***. Jadore tout ce qui est interactif, creation de site web. En *gros*  jadore crée et inventer  
+
+## ce qui me plait en **TIM**
+
+### ce qui me plait en multimedia en tim cest la grand creativité et les projet construit par les eleves. Jadore cree et realiser des projet. La facon que la matiere est enseigner est tres innteresante, les variete de site web pour aider et les ressources fournis.
