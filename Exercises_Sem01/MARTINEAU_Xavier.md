@@ -1,6 +1,6 @@
 # Xavier Martinenau
 
-![IMG_0417](IMG_0417)
+![IMG_0417](IMG_0417.jpg)
 
 ### une photo de moi en randonnée au mont tremblant
 
