@@ -1,6 +1,7 @@
 # Xavier Martinenau
 
-![IMG_0417](https://github.com/user-attachments/assets/a58042d5-f3e1-4049-a028-f2cc1d0f1317)
+![IMG_0417](IMG_0417)
+
 ### une photo de moi en randonnée au mont tremblant
 
 
