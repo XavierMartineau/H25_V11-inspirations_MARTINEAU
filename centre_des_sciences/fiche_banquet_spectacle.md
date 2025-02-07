@@ -29,6 +29,10 @@ Spectacle
 - immersive
 - interactive
 
+## Mise en espace
+![banquet_dispositif_acceuil](media/banquet_dispositif_acceuil.jpg)
+![banquet_projecteur vue dessous](media/banquet_dispositif_02.jpg)
+![banquet_projecteur vue dessous](media/banquet_projecteur_vue_dessous.jpg)
 
 
 
