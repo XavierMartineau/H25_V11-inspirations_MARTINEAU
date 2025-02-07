@@ -12,10 +12,12 @@ Temporaire
 ## date de votre visite 
 vendredi 31 janvier 2025
 
+
 ## Titre du dispositif choisi
 Spectacle
 
 ![banquet_dispositif](media/banquet_dispositif.jpg)
+
 
 ##Nom de la firme (texte de présentation ou explicatif)
 ![banquet_inspiration](media/banquet_inspiration.jpg)  
