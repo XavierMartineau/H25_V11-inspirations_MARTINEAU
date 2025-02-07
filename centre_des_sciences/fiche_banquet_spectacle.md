@@ -1,3 +1,7 @@
+LIEN POUR CONSIGNE: https://github.com/SylvieFrancois/H25_TIM_exposition/blob/main/consignes/banque_inspiration/TP01_expo_centre_des_sciences.md
+
+
+
 ## Nom de l'exposition ou de l'événement
 Banquet
 
@@ -39,12 +43,7 @@ Spectacle
 - 4 arbre de couleur qui suivent le rhytme
 - 3 projecteur sous la table, 2 projecteur sur les cote
 
-
-
-
-
-
-
+## Éléments nécessaires à la mise en exposition
 
 
 ## Description de l'oeuvre
