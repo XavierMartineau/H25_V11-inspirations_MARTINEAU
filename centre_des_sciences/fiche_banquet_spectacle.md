@@ -15,6 +15,7 @@ vendredi 31 janvier 2025
 
 ## Titre du dispositif choisi
 Spectacle
+
 ![banquet_dispositif](media/banquet_dispositif.jpg)
 
 
