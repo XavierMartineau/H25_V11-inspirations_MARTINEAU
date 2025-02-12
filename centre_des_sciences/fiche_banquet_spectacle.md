@@ -47,3 +47,12 @@ Spectacle
 
 
 ## Description de l'oeuvre
+Je vous raconte mon expérience lors de l'exposition Banquet que j'ai visitée le vendredi 31 janvier 2025. C'était une expo temporaire, et j'ai même pris une photo devant l'entrée pour me souvenir de ce moment.
+
+Parmi toutes les installations, celle qui m'a le plus marqué s'appelle Spectacle. C'est une installation immersive qui joue avec la lumière et les images. Voici ce que j'ai pu voir :
+
+Trois murs avec des projections : Les images changeaient tout le temps, ce qui rendait l'ambiance vraiment vivante.
+Une table avec une projection : La table diffusait aussi des images, ajoutant une touche originale à l'ensemble.
+Quatre arbres de couleur : Ces arbres suivaient un rythme, créant un mouvement harmonieux dans l'espace.
+Projecteurs : Il y avait trois projecteurs placés sous la table et deux sur les côtés, ce qui contribuait à une ambiance lumineuse très particulière.
+Cette installation m'a permis de vivre un véritable banquet des sens. J'ai beaucoup apprécié la manière dont la technologie et l'art se sont mélangés pour offrir une expérience simple, mais marquante.
