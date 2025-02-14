@@ -1,6 +1,3 @@
-LIEN POUR CONSIGNE: https://github.com/SylvieFrancois/H25_TIM_exposition/blob/main/consignes/banque_inspiration/TP01_expo_centre_des_sciences.md
-
-
 
 ## Nom de l'exposition ou de l'événement
 L'exposition que jai choisi ce nomme Banquet
