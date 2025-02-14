@@ -39,7 +39,6 @@ Le type dinstalation est immersive
 
 ## Composantes et techniques
 Les composant technique que nous avon etais **3 mur avec de la projection**,**1 table avec une projection**, **4 arbre de couleur qui suivent le rhytme**,**3 projecteur au dessus de la table et 2 sur les coté** . 
-- 3 projecteur dessus la table, 2 projecteur sur les cote
 
 ## Éléments nécessaires à la mise en exposition
 les élément nécesaire etais une table, des fil, une bande sonore, de lanimation
