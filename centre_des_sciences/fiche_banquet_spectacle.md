@@ -44,13 +44,12 @@ Les composant technique que nous avon etais **3 mur avec de la projection**,**1 
 les élément nécesaire etais une table, des fil, une bande sonore, de lanimation
 
 ## Description de l'oeuvre
-Je vous raconte mon expérience lors de l'exposition Banquet que j'ai visitée le vendredi 31 janvier 2025. C'était une expo temporaire, et j'ai même pris une photo devant l'entrée pour me souvenir de ce moment et une video
+Je vous raconte mon expérience lors de l'exposition Banquet
 [![Miniature vidéo YouTube](https://img.youtube.com/vi/mkXZR4Sy6yU/0.jpg)](https://www.youtube.com/watch?v=mkXZR4Sy6yU)
+J'ai visité l'exposition Banquet le vendredi 31 janvier 2025, une exposition temporaire qui m'a profondément marqué. Lors de ma visite, j'ai pris une photo devant l'entrée pour garder un souvenir de ce moment.
 
-Parmi toutes les installations, celle qui m'a le plus marqué s'appelle Spectacle. C'est une installation immersive qui joue avec la lumière et les images. Voici ce que j'ai pu voir :
+Parmi toutes les installations, celle qui a retenu mon attention s'appelle Spectacle. C'est une installation immersive, qui joue habilement avec la lumière, l'espace et le rythme. Ce dispositif comprenait plusieurs éléments fascinants. Tout d'abord, il y avait trois murs avec des projections, qui diffusaient des images changeantes, créant une atmosphère vivante et dynamique. Ensuite, une table avec une projection apportait une dimension interactive, diffusant des images en mouvement, ajoutant une touche originale à l'ensemble.
 
-Trois murs avec des projections : Les images changeaient tout le temps, ce qui rendait l'ambiance vraiment vivante.
-Une table avec une projection : La table diffusait aussi des images, ajoutant une touche originale à l'ensemble.
-Quatre arbres de couleur : Ces arbres suivaient un rythme, créant un mouvement harmonieux dans l'espace.
-Projecteurs : Il y avait trois projecteurs placés au dessus la table et deux sur les côtés, ce qui contribuait à une ambiance lumineuse très particulière.
-Cette installation m'a permis de vivre un véritable banquet des sens. J'ai beaucoup apprécié la manière dont la technologie et l'art se sont mélangés pour offrir une expérience simple, mais marquante.
+L'élément qui m'a particulièrement impressionné était les quatre arbres de couleur, qui semblaient suivre un rythme, apportant de la fluidité et du mouvement à l'espace. Les projecteurs, trois au-dessus de la table et deux sur les côtés, contribuaient à l'ambiance lumineuse, accentuant l'effet immersif de l'installation. Cette mise en scène technologique et artistique m'a permis de vivre un véritable "banquet des sens", où l'art et la technologie se rencontrent pour offrir une expérience simple, mais très marquante.
+
+L'installation était immersive, ce qui m'a permis de m'immerger totalement dans l'environnement. L'usage de la lumière, des projections et du son, combiné à l'interactivité des éléments, créait une expérience sensorielle unique et mémorable. C'est une installation qui transforme l'espace et invite les visiteurs à s'engager activement avec l'œuvre.
