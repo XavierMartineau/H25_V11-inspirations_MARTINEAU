@@ -45,7 +45,8 @@ les élément nécesaire etais une table, des fil, une bande sonore, de lanimati
 
 ## Description de l'oeuvre
 Je vous raconte mon expérience lors de l'exposition Banquet que j'ai visitée le vendredi 31 janvier 2025. C'était une expo temporaire, et j'ai même pris une photo devant l'entrée pour me souvenir de ce moment et une video
-[![Spectacle Banquet au centre des sciences 2025](https://www.youtube.com/watch?v=mkXZR4Sy6yU)
+[![Miniature vidéo YouTube](https://img.youtube.com/vi/mkXZR4Sy6yU/0.jpg)](https://www.youtube.com/watch?v=mkXZR4Sy6yU)
+
 Parmi toutes les installations, celle qui m'a le plus marqué s'appelle Spectacle. C'est une installation immersive qui joue avec la lumière et les images. Voici ce que j'ai pu voir :
 
 Trois murs avec des projections : Les images changeaient tout le temps, ce qui rendait l'ambiance vraiment vivante.
