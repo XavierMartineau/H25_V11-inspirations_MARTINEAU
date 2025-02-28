@@ -14,4 +14,4 @@ A) Vincent Delisle <br/>
 B) Ikrame Rata <br/>
 C) Jérémy Duverseau <br/>
 ### image du projet
-![prismatica](media/b.jpg)
+![prismatica](media/maquette_4.jpg)
