@@ -8,4 +8,8 @@
 06-c0ndu8 <br/>
 07-Fuga <br/>
 
-## -
+## prismatica 
+### les membres
+A) Vincent Delisle <br/>
+B) Ikrame Rata <br/>
+C) Jérémy Duverseau <br/>
