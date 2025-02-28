@@ -1,22 +1,22 @@
 # tous les projet 
 ## Notes projets
-01- Internature <br/>
-02-prismatica <br/>
-### les membres
+### 01- Internature <br/>
+### 02-prismatica <br/>
+#### les membres
 A) Vincent Delisle <br/>
 B) Ikrame Rata <br/>
 C) Jérémy Duverseau <br/>
-### image du projet
+#### image du projet
 ![prismatica](media/maquette_4.jpg)
-### maquette projets
+#### maquette projets
 ![schéma](media/scenario_interactif.png)
-### mon ressenti
+#### mon ressenti
 jai aimer cette exposition car cetais une belle expo a voir 
-### 3 cours besoin
+#### 3 cours besoin
 A) interactivité ludique
 B) Design graphique
 C) audiovisuel
-### technique ou composante non aquis
+#### technique ou composante non aquis
 rien
 03-arcadia <br/>
 04-Etheria <br/>
