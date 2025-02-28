@@ -16,4 +16,4 @@ C) Jérémy Duverseau <br/>
 ### image du projet
 ![prismatica](media/maquette_4.jpg)
 
-###maquette projets
+### maquette projets
