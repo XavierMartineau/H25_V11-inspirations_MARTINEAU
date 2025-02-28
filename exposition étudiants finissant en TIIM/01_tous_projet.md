@@ -1,8 +1,8 @@
 # Notes projets
-01- Internature
-02-prismatica 
-03-arcadia
-04-Etheria
-05-lumiinatura
-06-c0ndu8
-07-Fuga
+01- Internature <br/>
+02-prismatica <br/>
+03-arcadia <br/>
+04-Etheria <br/>
+05-lumiinatura <br/>
+06-c0ndu8 <br/>
+07-Fuga <br/>
