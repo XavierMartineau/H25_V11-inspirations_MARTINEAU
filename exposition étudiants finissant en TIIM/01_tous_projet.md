@@ -46,19 +46,19 @@ C) Michael Un Dupré <br/>
 D) Pierre-Luc Proulx <br/>
 E) Maik Hamel <br/>
 #### image du projet
-[📽 Regarder la video](https://youtu.be/GQIxuZGOXwk)
-)
+[📽 Regarder la video](https://youtu.be/GQIxuZGOXwk) <br/>
 #### maquette projet
-**Aucune maquette trouvé**
+[📽 Regarder la video](https://youtu.be/GQIxuZGOXwk)
 #### mon ressenti
-J'ai bien aimé ce petit jeu video mais rempli de details, mais quelque petit soucis par ci par la mon fais moin aprécié
+Jai bien aimé de voir le projet de ces étudiants, très créatif et qui sors de l'ordinaire
 #### 3 cours besoin
-A) Animation 2D
+A) Objets interactifs
 B) Audio 1/2
 C) audiovisuel
 #### technique ou composante non aquis
-Rien <br/>
-05-lumiinatura <br/>
+Creation de jeu avec unity <br/>
+
+### 05-luminatura <br/>
 06-c0ndu8 <br/>
 07-Fuga <br/>
 
