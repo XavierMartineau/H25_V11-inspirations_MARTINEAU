@@ -14,9 +14,9 @@ C) Jérémy Duverseau <br/>
 #### mon ressenti
 jai aimer cette exposition car cetais une belle expo a voir
 #### 3 cours besoin
-A) interactivité ludique
-B) Design graphique
-C) audiovisuel
+A) interactivité ludique <br/>
+B) Design graphique <br/>
+C) audiovisuel <br/>
 #### technique ou composante non aquis
 rien <br/>
 
@@ -32,9 +32,9 @@ C) Anton Nikulin <br/>
 #### mon ressenti
 J'ai bien aimé ce petit jeu video mais rempli de details, mais quelque petit soucis par ci par la mon fais moin aprécié
 #### 3 cours besoin
-A) Animation 2D
-B) Audio 1/2
-C) audiovisuel
+A) Animation 2D <br/>
+B) Audio 1/2 <br/>
+C) audiovisuel <br/>
 #### technique ou composante non aquis
 Rien <br/>
 
@@ -52,9 +52,9 @@ E) Maik Hamel <br/>
 #### mon ressenti
 Jai bien aimé de voir le projet de ces étudiants, très créatif et qui sors de l'ordinaire
 #### 3 cours besoin
-A) Objets interactifs
-B) Audio 1/2
-C) audiovisuel
+A) Objets interactifs <br/>
+B) Audio 1/2 <br/>
+C) audiovisuel <br/>
 #### technique ou composante non aquis
 Creation de jeu avec unity <br/>
 
