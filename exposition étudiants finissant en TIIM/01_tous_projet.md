@@ -46,7 +46,8 @@ C) Michael Un Dupré <br/>
 D) Pierre-Luc Proulx <br/>
 E) Maik Hamel <br/>
 #### image du projet
-[📽 Télécharger la vidéo](media/414813124-97d912d4-0f0e-48c1-a3b5-0e060723a0e9.mp4)
+[📽 Regarder la video](https://youtu.be/GQIxuZGOXwk)
+)
 #### maquette projet
 **Aucune maquette trouvé**
 #### mon ressenti
