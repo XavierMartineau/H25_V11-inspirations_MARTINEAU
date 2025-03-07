@@ -113,9 +113,9 @@ Jai pas trouvé dimage du projet et je nai pas pris de video alors jinclus le sc
 #### maquette projet
 **Aucune image de maquette incluse lors de la redaction**
 #### mon ressenti
-Tres interessant, cetais beau a voir le nombre de details et de temmps passé pour realisé se projet la
+Jai bien aimé pouvoir changer la facon et la couleur de larbre que je faisais grandir
 #### 3 cours besoin
-A) Objets interactifs <br/>
+A) Objets interactif <br/>
 B) Audio 1/2 <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
