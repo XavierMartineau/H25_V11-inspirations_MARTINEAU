@@ -11,14 +11,30 @@ C) Jérémy Duverseau <br/>
 #### maquette projets
 ![schéma](media/scenario_interactif.png)
 #### mon ressenti
-jai aimer cette exposition car cetais une belle expo a voir 
+jai aimer cette exposition car cetais une belle expo a voir
 #### 3 cours besoin
 A) interactivité ludique
 B) Design graphique
 C) audiovisuel
 #### technique ou composante non aquis
-rien
-03-arcadia <br/>
+rien <br/>
+### 03-arcadia <br/>
+#### les membres
+A) Dominic Yale <br/>
+B) William Beauvais <br/>
+C) Anton Nikulin <br/>
+#### image du projet
+![prismatica](media/)
+#### maquette projets
+![schéma](media/)
+#### mon ressenti
+
+#### 3 cours besoin
+A) interactivité ludique
+B) Design graphique
+C) audiovisuel
+#### technique ou composante non aquis
+rien <br/>
 04-Etheria <br/>
 05-lumiinatura <br/>
 06-c0ndu8 <br/>
