@@ -1,1 +1,1 @@
-**Ce dossier contiendra toutes les informations prises lors de mon exposition individuelle.**
+**Ce dossier contiendra toutes les fichier et dossiers prises lors de mon exposition individuelle.**
