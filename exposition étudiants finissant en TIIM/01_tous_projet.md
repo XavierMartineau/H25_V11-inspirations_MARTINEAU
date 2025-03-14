@@ -55,8 +55,8 @@ E) Maik Hamel <br/>
 #### image du projet
 [📽 Regarder la video](https://youtu.be/GQIxuZGOXwk) <br/>
 #### maquette projet
-
-###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
+![Etheria](media/Plantation_Etheria.png)
+###### SOURCES :https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
 #### mon ressenti
 J’ai bien aimé découvrir le projet de ces étudiants, très créatif et original, qui sort de l’ordinaire.
 #### 3 cours besoin
@@ -75,11 +75,11 @@ C) Camilia <br/>
 D) Prethiah <br/>
 E) Ihab <br/>
 #### image du projet
-![Luminatura](media/Luminatura.png) <br/>
+![Luminatura](media/Luminatura_images.png) 
+###### SOURCES https://miaou-mafia.github.io/projet-luminatura/#/50_diffusion/
 #### maquette projet
 [📽 Regarder la video](https://youtu.be/XiKaz-DwWxc?si=ifbxIp7DJino87Fp)
 ###### SOURCES https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
-
 #### mon ressenti
 Quand je suis aller le projet ne fonctionais pas donc je nai pas pu vraiment tester
 #### 3 cours besoin
@@ -90,7 +90,7 @@ C) audiovisuel <br/>
 Creation de son avec arduino <br/>
 </br>
 
-### 06-c0ndu8 <br/>
+### 06-C0N-DU8 <br/>
 #### les membres
 A) Ian_Corbin <br/>
 B) Samuel_Desmeules_Voyer <br/>
