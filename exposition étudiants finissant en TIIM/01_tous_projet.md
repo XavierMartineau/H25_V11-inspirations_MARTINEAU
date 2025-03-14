@@ -81,7 +81,7 @@ B) Audio 1/2
 C) Audiovisuel  
 
 #### Technique ou composante non acquise  
-Création de jeu avec Unity.  
+La technique ou composante non acquise est la création de jeu avec Unity.  
 </br>
 
 ### 05- Luminatura  
