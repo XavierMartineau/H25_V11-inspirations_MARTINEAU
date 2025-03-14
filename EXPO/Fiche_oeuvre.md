@@ -1,3 +1,5 @@
+CONSIGNES: https://github.com/SylvieFrancois/H25_TIM_exposition/blob/main/consignes/banque_inspiration/TP_tous_documentation.md
+
 # Nom de l'exposition ou de l'événement
  ### Le nom de l'exposition se nomme *le tunnel*
 </br>
