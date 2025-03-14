@@ -11,8 +11,8 @@ C) Jérémy Duverseau <br/>
 ![prismatica](media/maquette_4.jpg)
 ###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### maquette projet
-
-###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
+[📽 Regarder la video de prismatica](https://youtu.be/DIQUb2jYALk)
+###### SOURCES https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
 #### mon ressenti
 J’ai aimé cette exposition, car elle était visuellement captivante et bien conçue, offrant une expérience enrichissante à découvrir.
 #### 3 cours besoin
@@ -29,8 +29,10 @@ B) William Beauvais <br/>
 C) Anton Nikulin <br/>
 #### image du projet
 ![Arcadia](media/Arcadia_img.png)
+###### SOURCES https://cousi-cousa.github.io/Arcadia/#/40_maquette/?id=jeu 
 #### maquette projet
-[📽 Regarder la video](https://youtu.be/DIQUb2jYALk)
+![Arcadia](media/Arcadia_plantation.png)
+###### SOURCES https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 #### mon ressenti
 J'ai bien aimé ce petit jeu vidéo, rempli de détails, mais quelques petits soucis ici et là ont légèrement réduit mon appréciation.
 #### 3 cours besoin
