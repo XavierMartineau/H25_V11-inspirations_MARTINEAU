@@ -1,6 +1,7 @@
 # tous les projet 
 ## Notes projets
 ### 01- Internature <br/>
+</br>
 
 ### 02-prismatica <br/>
 #### les membres
@@ -21,6 +22,7 @@ B) Design graphique <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
 Aucune  <br/>
+</br>
 
 ### 03-arcadia <br/>
 #### les membres
@@ -41,6 +43,7 @@ B) Audio 1/2 <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
 Rien <br/>
+</br>
 
 ### 04-Etheria <br/>
 #### les membres
@@ -62,6 +65,7 @@ B) Audio 1/2 <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
 Creation de jeu avec unity <br/>
+</br>
 
 ### 05-luminatura <br/>
 #### les membres
@@ -84,6 +88,7 @@ B) Audio 1/2 <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
 Creation de son avec arduino <br/>
+</br>
 
 ### 06-c0ndu8 <br/>
 #### les membres
@@ -104,6 +109,7 @@ B) Audio 1/2 <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
 Creation de son avec arduino/jeu en unity <br/>
+</br>
 
 ### 07-Fuga <br/>
 #### les membres
