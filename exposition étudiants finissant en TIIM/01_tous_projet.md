@@ -11,7 +11,7 @@ C) Jérémy Duverseau <br/>
 ![prismatica](media/maquette_4.jpg)
 ##### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### maquette projet
-![schéma](media/prismatica_maquette.png)
+![schéma](media/Prismatica_maquette.png)
 ##### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### mon ressenti
 J’ai aimé cette exposition, car elle était visuellement captivante et bien conçue, offrant une expérience enrichissante à découvrir.
