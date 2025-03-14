@@ -9,10 +9,10 @@ B) Ikrame Rata <br/>
 C) Jérémy Duverseau <br/>
 #### image du projet
 ![prismatica](media/maquette_4.jpg)
-##### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
+###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### maquette projet
 ![schéma](media/Prismatica_maquette.png)
-##### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
+###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### mon ressenti
 J’ai aimé cette exposition, car elle était visuellement captivante et bien conçue, offrant une expérience enrichissante à découvrir.
 #### 3 cours besoin
