@@ -11,7 +11,7 @@ C) Jérémy Duverseau <br/>
 ![prismatica](media/maquette_4.jpg)
 ###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### maquette projet
-![schéma](media/Prismatica_maquette.png)
+
 ###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### mon ressenti
 J’ai aimé cette exposition, car elle était visuellement captivante et bien conçue, offrant une expérience enrichissante à découvrir.
@@ -20,7 +20,7 @@ A) interactivité ludique <br/>
 B) Design graphique <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
-Aucune com <br/>
+Aucune  <br/>
 
 ### 03-arcadia <br/>
 #### les membres
@@ -30,7 +30,7 @@ C) Anton Nikulin <br/>
 #### image du projet
 ![Arcadia](media/Arcadia_img.png)
 #### maquette projet
-**Aucune maquette trouvé lors de la redaction**
+[📽 Regarder la video](https://youtu.be/DIQUb2jYALk)
 #### mon ressenti
 J'ai bien aimé ce petit jeu vidéo, rempli de détails, mais quelques petits soucis ici et là ont légèrement réduit mon appréciation.
 #### 3 cours besoin
@@ -50,7 +50,8 @@ E) Maik Hamel <br/>
 #### image du projet
 [📽 Regarder la video](https://youtu.be/GQIxuZGOXwk) <br/>
 #### maquette projet
-[📽 Regarder la video](https://youtu.be/GQIxuZGOXwk)
+
+###### SOURCES :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### mon ressenti
 J’ai bien aimé découvrir le projet de ces étudiants, très créatif et original, qui sort de l’ordinaire.
 #### 3 cours besoin
@@ -70,8 +71,8 @@ E) Ihab <br/>
 #### image du projet
 ![Luminatura](media/Luminatura.png) <br/>
 #### maquette projet
-[📽 Regarder la video](https://www.youtube.com/watch?v=9Ty8B9qVx1c)
-[📽 Regarder la video](https://www.youtube.com/watch?v=_t8blyjZfRY))
+[📽 Regarder la video](https://youtu.be/XiKaz-DwWxc?si=ifbxIp7DJino87Fp)
+###### SOURCES https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
 #### mon ressenti
 Quand je suis aller le projet ne fonctionais pas donc je nai pas pu vraiment tester
@@ -92,7 +93,7 @@ E) Jérémy_Roy_Coté <br/>
 #### image du projet
 ![C0N-DU8](media/C0N-DU8.png)<br/>
 #### maquette projet
-[📽 Regarder la video](https://www.youtube.com/watch?v=z30DYRxXN6c)
+
 #### mon ressenti
 Très intéressant ! C’était impressionnant de voir le souci du détail et le temps investi pour réaliser ce projet.
 #### 3 cours besoin
@@ -113,7 +114,7 @@ E) Yavuz <br/>
 Je n’ai pas trouvé d’image du projet et je n’ai pas pris de vidéo, alors j’inclus le scénarimage.
 [📽 Regarder la video](https://youtu.be/xKefpLbpBwk)<br/>
 #### maquette projet
-**Aucune image de maquette incluse lors de la redaction**
+
 #### mon ressenti
 J’ai vraiment apprécié la possibilité de personnaliser la forme et la couleur de l’arbre en le faisant grandir, ce qui rendait l’expérience immersive et créative.
 #### 3 cours besoin
