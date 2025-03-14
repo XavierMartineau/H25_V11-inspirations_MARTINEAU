@@ -12,13 +12,13 @@ C) Jérémy Duverseau <br/>
 #### maquette projet
 ![schéma](media/scenario_interactif.png)
 #### mon ressenti
-jai aimer cette exposition car cetais une belle expo a voir
+J’ai aimé cette exposition, car elle était visuellement captivante et bien conçue, offrant une expérience enrichissante à découvrir.
 #### 3 cours besoin
 A) interactivité ludique <br/>
 B) Design graphique <br/>
 C) audiovisuel <br/>
 #### technique ou composante non aquis
-rien <br/>
+Aucune com <br/>
 
 ### 03-arcadia <br/>
 #### les membres
@@ -30,7 +30,7 @@ C) Anton Nikulin <br/>
 #### maquette projet
 **Aucune maquette trouvé lors de la redaction**
 #### mon ressenti
-J'ai bien aimé ce petit jeu video mais rempli de details, mais quelque petit soucis par ci par la mon fais moin aprécié
+J'ai bien aimé ce petit jeu vidéo, rempli de détails, mais quelques petits soucis ici et là ont légèrement réduit mon appréciation.
 #### 3 cours besoin
 A) Animation 2D <br/>
 B) Audio 1/2 <br/>
@@ -50,7 +50,7 @@ E) Maik Hamel <br/>
 #### maquette projet
 [📽 Regarder la video](https://youtu.be/GQIxuZGOXwk)
 #### mon ressenti
-Jai bien aimé de voir le projet de ces étudiants, très créatif et qui sors de l'ordinaire
+J’ai bien aimé découvrir le projet de ces étudiants, très créatif et original, qui sort de l’ordinaire.
 #### 3 cours besoin
 A) Objets interactifs <br/>
 B) Audio 1/2 <br/>
@@ -92,7 +92,7 @@ E) Jérémy_Roy_Coté <br/>
 #### maquette projet
 [📽 Regarder la video](https://www.youtube.com/watch?v=z30DYRxXN6c)
 #### mon ressenti
-Tres interessant, cetais beau a voir le nombre de details et de temmps passé pour realisé se projet la
+Très intéressant ! C’était impressionnant de voir le souci du détail et le temps investi pour réaliser ce projet.
 #### 3 cours besoin
 A) Objets interactifs <br/>
 B) Audio 1/2 <br/>
@@ -108,12 +108,12 @@ C) Daniel <br/>
 D) Abdel  <br/>
 E) Yavuz <br/>
 #### image du projet
-Jai pas trouvé dimage du projet et je nai pas pris de video alors jinclus le scénarimage
+Je n’ai pas trouvé d’image du projet et je n’ai pas pris de vidéo, alors j’inclus le scénarimage.
 [📽 Regarder la video](https://youtu.be/xKefpLbpBwk)<br/>
 #### maquette projet
 **Aucune image de maquette incluse lors de la redaction**
 #### mon ressenti
-Jai bien aimé pouvoir changer la facon et la couleur de larbre que je faisais grandir
+J’ai vraiment apprécié la possibilité de personnaliser la forme et la couleur de l’arbre en le faisant grandir, ce qui rendait l’expérience immersive et créative.
 #### 3 cours besoin
 A) Objets interactif <br/>
 B) Audio 1/2 <br/>
