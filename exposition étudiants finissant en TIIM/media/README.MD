@@ -1,1 +1,1 @@
-Ce dossier contiendra tout mes immage et video
+Ce dossier contiendra tout mes images pour le projet
