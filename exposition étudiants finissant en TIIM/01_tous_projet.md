@@ -9,6 +9,7 @@ B) Ikrame Rata <br/>
 C) Jérémy Duverseau <br/>
 #### image du projet
 ![prismatica](media/maquette_4.jpg)
+##### Crédits :https://pootpookies.github.io/Prismatica/#/40_maquette/ 
 #### maquette projet
 ![schéma](media/scenario_interactif.png)
 #### mon ressenti
