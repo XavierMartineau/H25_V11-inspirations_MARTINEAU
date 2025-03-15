@@ -59,3 +59,28 @@ CONSIGNES: https://github.com/SylvieFrancois/H25_TIM_exposition/blob/main/consig
 <br>
 
 ### **En résumé**, Le TUNNEL dans LUMINO sert de support sensoriel et interactif, permettant de vivre une expérience immersive où les limites entre l'art, la technologie et le spectateur deviennent floues, tout en invitant à une exploration continue et personnalisée de l'œuvre.
+<br>
+
+# Mise en espace
+### pour le Tunnel, ils y avaiss;
+<br>
+
+### - 16 structures cosmiques insolites d’une hauteur 4 mètres parées de plus de 150 barres de diodes électroluminescentes (DEL)
+![tunne](Media/lumino_le_tunnel_vue_face.jpeg)
+![lumiere](Media/lumino_le_tunnel_lumiere.jpeg)
+<br>
+
+### - Des fils électriques
+![fils](Media/lumino_le_tunnel_vue_cable.jpeg)
+<br>
+
+### - une boite electrique
+![alimenttation](Media/lumino_le_tunnel_boite_alimentation.jpeg)
+<br>
+
+### - une surface avec des bouton servant a controller les lumières
+![bouton](Media/lumino_le_tunnel_bouton.jpeg)
+<br>
+
+### - un panneau avec le nom desus 
+![pancarte](Media/lumino_le_tunnel_pancarte.jpeg)
