@@ -101,7 +101,7 @@ E) Ihab
 ###### SOURCES : [https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/)  
 
 #### Mon ressenti  
-Quand je suis allé, le projet ne fonctionnait pas, donc je n’ai pas pu vraiment tester.  
+Tres intnérésant, bien aimé voir tout le travail mis en ariere, Coloré et atrayant
 
 #### 3 cours nécessaires  
 A) Objets interactifs  
