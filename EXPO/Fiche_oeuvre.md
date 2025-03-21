@@ -45,19 +45,19 @@
 ### *Le Tunnel* possède plusieurs fonctions principales, par exemple :
 
 ### 1- Création d'un espace immersif  
-Le tunnel, caractérisé par des projections lumineuses et sonores évolutives, transforme l'environnement physique en un espace virtuel qui entoure totalement le spectateur. L'utilisation de la lumière et du son crée une atmosphère dynamique, où l'artiste manipule l’espace grâce aux technologies multimédias.  
+### Le tunnel, caractérisé par des projections lumineuses et sonores évolutives, transforme l'environnement physique en un espace virtuel qui entoure totalement le spectateur. L'utilisation de la lumière et du son crée une atmosphère dynamique, où l'artiste manipule l’espace grâce aux technologies multimédias.  
 <br>
 
 ### 2- Interaction avec le spectateur  
-Le dispositif multimédia intègre des éléments interactifs où les mouvements ou actions des spectateurs influencent l’évolution des projections et des sons. Par exemple, un spectateur peut modifier la couleur, la forme ou la vitesse des projections en fonction de son interaction avec le tunnel, intensifiant ainsi l'expérience sensorielle.  
+###  Le dispositif multimédia intègre des éléments interactifs où les mouvements ou actions des spectateurs influencent l’évolution des projections et des sons. Par exemple, un spectateur peut modifier la couleur, la forme ou la vitesse des projections en fonction de son interaction avec le tunnel, intensifiant ainsi l'expérience sensorielle.  
 <br>
 
 ### 3- Conception d'un voyage sensoriel  
-Le tunnel est conçu pour guider les spectateurs dans une expérience de transformation visuelle et sonore. Il fonctionne comme un passage entre différentes ambiances ou états d'esprit, stimulant une perception sensorielle intense, où chaque section du tunnel offre une nouvelle dimension d'interaction.  
+### Le tunnel est conçu pour guider les spectateurs dans une expérience de transformation visuelle et sonore. Il fonctionne comme un passage entre différentes ambiances ou états d'esprit, stimulant une perception sensorielle intense, où chaque section du tunnel offre une nouvelle dimension d'interaction.  
 <br>
 
 ### 4- Exploration de l’espace et du temps  
-Le dispositif multimédia dans *Le Tunnel* permet de manipuler le temps et l’espace, créant un environnement évolutif où la perception du spectateur est constamment sollicitée. Les variations lumineuses et sonores peuvent simuler un passage vers un autre monde ou une immersion dans un rêve.  
+### Le dispositif multimédia dans *Le Tunnel* permet de manipuler le temps et l’espace, créant un environnement évolutif où la perception du spectateur est constamment sollicitée. Les variations lumineuses et sonores peuvent simuler un passage vers un autre monde ou une immersion dans un rêve.  
 <br>
 
 ### **En résumé**, *Le Tunnel* dans LUMINO sert de support sensoriel et interactif, permettant de vivre une expérience immersive où les frontières entre l'art, la technologie et le spectateur deviennent floues, tout en invitant à une exploration continue et personnalisée de l'œuvre.  
@@ -69,23 +69,23 @@ Le dispositif multimédia dans *Le Tunnel* permet de manipuler le temps et l’e
 <br>
 
 # Composantes et techniques
-### Pour *Le Tunnel*, il y avait :  
-1. Structure et Matériaux
-Arches métalliques ou en aluminium : Formaient la structure du tunnel.
-Panneaux diffusants en acrylique : Servaient à répartir la lumière uniformément.
-Fixations et supports modulaires : Permettaient d’assembler et de démonter l’installation facilement.
-2. Systèmes d’éclairage
-Barres LED RGB / RGBW : Utilisées pour générer les couleurs et les effets lumineux dynamiques.
-Tubes LED pixelisés : Permettaient un contrôle précis de chaque segment de lumière.
-Lumières interactives : Réagissaient au passage des visiteurs pour une expérience immersive.
-3. Contrôle et Effets Lumineux
-Système DMX : Pour synchroniser les couleurs et les animations lumineuses.
-Logiciels de mapping lumineux (comme MadMapper ou TouchDesigner) : Servaient à créer des effets visuels fluides et dynamiques.
-Capteurs de mouvement : Déclenchaient des variations de lumière selon les déplacements des passants.
-4. Alimentation et Connectique
-Blocs d’alimentation LED : Convertissaient le courant pour les systèmes d’éclairage.
-Câblage DMX et Ethernet : Assurait la communication entre les lumières et le contrôleur.
-Boîtiers de gestion à distance : Permettaient de programmer ou ajuster l’installation en temps réel.
+## Pour *Le Tunnel*, il y avait :  
+## 1. Structure et Matériaux
+### Arches métalliques ou en aluminium : Formaient la structure du tunnel.
+### Panneaux diffusants en acrylique : Servaient à répartir la lumière uniformément.
+### Fixations et supports modulaires : Permettaient d’assembler et de démonter l’installation facilement.
+## 2. Systèmes d’éclairage
+### Barres LED RGB / RGBW : Utilisées pour générer les couleurs et les effets lumineux dynamiques.
+### Tubes LED pixelisés : Permettaient un contrôle précis de chaque segment de lumière.
+### Lumières interactives : Réagissaient au passage des visiteurs pour une expérience immersive.
+## 3. Contrôle et Effets Lumineux
+### Système DMX : Pour synchroniser les couleurs et les animations lumineuses.
+### Logiciels de mapping lumineux (comme MadMapper ou TouchDesigner) : Servaient à créer des effets visuels fluides et dynamiques.
+### Capteurs de mouvement : Déclenchaient des variations de lumière selon les déplacements des passants.
+## 4. Alimentation et Connectique
+### Blocs d’alimentation LED : Convertissaient le courant pour les systèmes d’éclairage.
+### Câblage DMX et Ethernet : Assurait la communication entre les lumières et le contrôleur.
+### Boîtiers de gestion à distance : Permettaient de programmer ou ajuster l’installation en temps réel.
 <br>
 
 # Éléments nécessaires à la mise en exposition
