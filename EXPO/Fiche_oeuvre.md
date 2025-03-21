@@ -122,6 +122,6 @@
 <br>
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-### Honnêtement, je ne sais pas si je ne retiendrais pas quelque chose, car j'ai adoré.
+### Honnêtement, je ne sais pas si je vais retenir quelquechose car oui même si c'étais beau et amusant, lexposition n'a rien qui sors de l'ordinaire qui me rappelerais ca.
 
 
