@@ -70,6 +70,22 @@ Le dispositif multimédia dans *Le Tunnel* permet de manipuler le temps et l’e
 
 # Composantes et techniques
 ### Pour *Le Tunnel*, il y avait :  
+1. Structure et Matériaux
+Arches métalliques ou en aluminium : Formaient la structure du tunnel.
+Panneaux diffusants en acrylique : Servaient à répartir la lumière uniformément.
+Fixations et supports modulaires : Permettaient d’assembler et de démonter l’installation facilement.
+2. Systèmes d’éclairage
+Barres LED RGB / RGBW : Utilisées pour générer les couleurs et les effets lumineux dynamiques.
+Tubes LED pixelisés : Permettaient un contrôle précis de chaque segment de lumière.
+Lumières interactives : Réagissaient au passage des visiteurs pour une expérience immersive.
+3. Contrôle et Effets Lumineux
+Système DMX : Pour synchroniser les couleurs et les animations lumineuses.
+Logiciels de mapping lumineux (comme MadMapper ou TouchDesigner) : Servaient à créer des effets visuels fluides et dynamiques.
+Capteurs de mouvement : Déclenchaient des variations de lumière selon les déplacements des passants.
+4. Alimentation et Connectique
+Blocs d’alimentation LED : Convertissaient le courant pour les systèmes d’éclairage.
+Câblage DMX et Ethernet : Assurait la communication entre les lumières et le contrôleur.
+Boîtiers de gestion à distance : Permettaient de programmer ou ajuster l’installation en temps réel.
 <br>
 
 # Éléments nécessaires à la mise en exposition
