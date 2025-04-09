@@ -30,11 +30,11 @@ L'installation est **immersive**.
 
 ## Composantes et techniques  
 Les composants techniques de l’installation sont :  
-1) **4 murs**  
-2) **2 téléviseurs avec projection**  
-3) **16 haut-parleurs autour de la pièce**  
-4) **2 projecteurs**  
-5) **1 banc**  
+A) **4 murs**  
+B) **2 téléviseurs avec projection**  
+C) **16 haut-parleurs autour de la pièce**  
+D) **2 projecteurs**  
+E) **1 banc**  
 
 ## Éléments nécessaires à la mise en exposition  
 Les éléments nécessaires à la mise en exposition étaient des bancs, des projecteurs, une bande sonore et des haut-parleurs.
