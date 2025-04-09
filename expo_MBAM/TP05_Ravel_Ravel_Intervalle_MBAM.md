@@ -1,51 +1,57 @@
+Voici la version corrigée de ton texte en markdown :
+
+
 ## Nom de l'exposition ou de l'événement
-L'exposition ce nommme Ravel Ravel Intervalle
+L'exposition s'appelle **Ravel Ravel Intervalle**.
 
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_fiche_nom_de_l'oeuvre.png)
 
-## une photo de moi devant l'Exposition 
+## Une photo de moi devant l’exposition  
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Moi_devant_l'entrée.jpg)
 
-## type dexposition 
-Ravel Ravel Intervalle est une exposition Temporaire
+## Type d'exposition  
+**Ravel Ravel Intervalle** est une **exposition temporaire**.
 
-## date de votre visite 
-Je suis aller le vendredi 4 janvier 2025
+## Date de ma visite  
+Je suis allé(e) le **vendredi 4 janvier 2025**.
 
+## Titre du dispositif choisi  
+Le nom du dispositif choisi est **Ravel Ravel Intervalle**.
 
-## Titre du dispositif choisi
-Le nom du diapositif choisi ce nomme Ravel Ravel Intervalle
-
-
-## Nom de la firme (texte de présentation ou explicatif)
-![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)
+## Nom de la firme (texte de présentation ou explicatif)  
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)  
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_firme.jpg)
 
-## Année de réalisation 
-L'oeuvre Ravel Ravel Intervalle a été crée en 2017
+## Année de réalisation  
+L'œuvre **Ravel Ravel Intervalle** a été créée en **2017**.
 
-## Type d'installation (contemplative, immersive, interactive)
-Le type dinstalation est immersive
+## Type d'installation (contemplative, immersive, interactive)  
+L'installation est **immersive**.
 
-## Mise en espace
-[![Miniature vidéo YouTube](https://i9.ytimg.com/vi/_RUQk8doMbc/mq2.jpg)](https://youtube.com/shorts/_RUQk8doMbc?si=9pO_4kqyjMoeDQmx)
+## Mise en espace  
+[![Ravel Ravel mise en espace](https://i9.ytimg.com/vi/_RUQk8doMbc/mq2.jpg)](https://youtube.com/shorts/_RUQk8doMbc?si=9pO_4kqyjMoeDQmx)
 
-## Composantes et techniques
-Les composant technique que nous avon etais <br>
-1) **4 murs***
-2) **2 tv avec une projection**
-3) **4 arbre de couleur qui suivent le rhytme**,**3 projecteur au dessus de la table et 2 sur les coté** . 
+## Composantes et techniques  
+Les composants techniques de l’installation sont :  
+1) **4 murs**  
+2) **2 téléviseurs avec projection**  
+3) **16 haut-parleurs autour de la pièce**  
+4) **2 projecteurs**  
+5) **1 banc**  
 
-## Éléments nécessaires à la mise en exposition
-les élément nécesaire etais une table, des fil, une bande sonore, de lanimation
+## Éléments nécessaires à la mise en exposition  
+Les éléments nécessaires à la mise en exposition étaient des bancs, des projecteurs, une bande sonore et des haut-parleurs.
 
-## Description de l'oeuvre
-Je vous raconte mon expérience lors de l'exposition Banquet
-[![Miniature vidéo YouTube](https://img.youtube.com/vi/mkXZR4Sy6yU/0.jpg)](https://www.youtube.com/watch?v=mkXZR4Sy6yU)
-J'ai visité l'exposition Banquet le vendredi 31 janvier 2025, une exposition temporaire qui m'a profondément marqué. Lors de ma visite, j'ai pris une photo devant l'entrée pour garder un souvenir de ce moment.
+## Expérience vécue  
+Je vais vous raconter mon expérience lors de l'exposition au **Musée des beaux-arts de Montréal**.  
+J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, harmonieux et rempli de chaleur. J’ai pu ressentir toute la tristesse transmise par la musique et le piano, portée par le rythme qui me touchait.
 
-Parmi toutes les installations, celle qui a retenu mon attention s'appelle Spectacle. C'est une installation immersive, qui joue habilement avec la lumière, l'espace et le rythme. Ce dispositif comprenait plusieurs éléments fascinants. Tout d'abord, il y avait trois murs avec des projections, qui diffusaient des images changeantes, créant une atmosphère vivante et dynamique. Ensuite, une table avec une projection apportait une dimension interactive, diffusant des images en mouvement, ajoutant une touche originale à l'ensemble.
+## Description de l'œuvre
 
-L'élément qui m'a particulièrement impressionné était les quatre arbres de couleur, qui semblaient suivre un rythme, apportant de la fluidité et du mouvement à l'espace. Les projecteurs, trois au-dessus de la table et deux sur les côtés, contribuaient à l'ambiance lumineuse, accentuant l'effet immersif de l'installation. Cette mise en scène technologique et artistique m'a permis de vivre un véritable "banquet des sens", où l'art et la technologie se rencontrent pour offrir une expérience simple, mais très marquante.
+Le **vendredi 4 janvier 2025**, je me suis rendu au **Musée des beaux-arts de Montréal** pour visiter l’exposition temporaire **Ravel Ravel Intervalle**. Cette œuvre immersive, réalisée en **2017**, m’a profondément marqué.
 
-L'installation était immersive, ce qui m'a permis de m'immerger totalement dans l'environnement. L'usage de la lumière, des projections et du son, combiné à l'interactivité des éléments, créait une expérience sensorielle unique et mémorable. C'est une installation qui transforme l'espace et invite les visiteurs à s'engager activement avec l'œuvre.
+Dès mon arrivée, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux gros écrans** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **seize haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
+
+Le dispositif s’intitule également **Ravel Ravel Intervalle**, un nom énigmatique mais évocateur, qui donne le ton à l'expérience. La présentation était accompagnée de panneaux explicatifs sur les artistes et la firme impliquée dans la conception de l’œuvre, ce qui ajoutait une couche de compréhension intéressante.
+
+Ce que j’ai le plus apprécié, c’est la façon dont la musique et le piano transmettaient une **profonde tristesse**, rendue encore plus puissante par le **rythme** et l’environnement immersif. C’était **magnifique**, **harmonieux** et **plein de chaleur**. J’ai vraiment senti l’émotion me traverser, comme si chaque note résonnait directement en moi.
