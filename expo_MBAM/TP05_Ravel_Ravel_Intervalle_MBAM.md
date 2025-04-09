@@ -3,6 +3,9 @@ L'exposition s'appelle **Ravel Ravel Intervalle**.
 
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_fiche_nom_de_l'oeuvre.png)
 
+## Lieux
+MUSÉE DES BEAUX-ARTS DE MONTRÉAL
+
 ## Une photo de moi devant l’exposition  
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Moi_devant_l'entrée.jpg)
 
