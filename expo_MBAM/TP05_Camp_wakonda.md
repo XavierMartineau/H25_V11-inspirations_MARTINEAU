@@ -18,17 +18,18 @@ Je suis allé(e) le **vendredi 4 janvier 2025**.
 Le nom du dispositif choisi est **Camp Wakonda**.
 
 ## Nom de la firme (texte de présentation ou explicatif)  
-![Camp_Wakonda](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)  
-![Camp_Wakonda](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_firme.jpg)
+![Camp_Wakonda](Media/Camp_Wakonda/Camp_wakonda_frime-min.jpg)  
+
 
 ## Année de réalisation  
-L'œuvre **Ravel Ravel Intervalle** a été créée en **2017**.
+L'œuvre **Camp Wakonda** a été créée en **2013**.
 
 ## Type d'installation (contemplative, immersive, interactive)  
 L'installation est **immersive**.
 
 ## Mise en espace  
 ![Camp Wakonda mis en espace](https://youtube.com/shorts/vpuzWSn8ivg)
+![Camp_Wakonda](Media/Camp_Wakonda/Camp_wakonda_diposition-min.jpg)  
 
 ## Composantes et techniques  
 Les composants techniques de l’installation sont :  
