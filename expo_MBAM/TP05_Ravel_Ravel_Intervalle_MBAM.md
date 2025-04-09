@@ -1,6 +1,3 @@
-Voici la version corrigée de ton texte en markdown :
-
-
 ## Nom de l'exposition ou de l'événement
 L'exposition s'appelle **Ravel Ravel Intervalle**.
 
