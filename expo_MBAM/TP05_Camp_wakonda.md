@@ -28,7 +28,7 @@ L'œuvre **Camp Wakonda** a été créée en **2013**.
 L'installation est **immersive**.
 
 ## Mise en espace  
-![Camp Wakonda mis en espace](https://youtube.com/shorts/vpuzWSn8ivg)
+![Video du Camp Wakonda mis en espace](https://youtube.com/shorts/vpuzWSn8ivg)
 ![Camp_Wakonda](Media/Camp_Wakonda/Camp_wakonda_diposition-min.jpg)  
 
 ## Composantes et techniques  
