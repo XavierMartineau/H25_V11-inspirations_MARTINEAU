@@ -13,3 +13,7 @@ Enfin, la conférence a permis de comprendre que cette œuvre ne se limite pas �
 L’exposition et la conférence de Rafael Lozano-Hemmer offrent une réflexion profonde sur l’interaction entre la musique, l’espace et le spectateur. Cette approche novatrice permet non seulement de réinterpréter une œuvre classique, mais aussi de transformer l’écoute en une expérience sensorielle et interactive.
 
 J’ai trouvé cette conférence particulièrement inspirante, car elle démontre que la technologie peut être utilisée pour améliorer notre expérience artistique, et non simplement comme un outil d’amplification ou de diffusion. En intégrant science, art et interaction, Sphere Packing: Bach propose une nouvelle manière de vivre la musique, en faisant de l’auditeur un participant actif plutôt qu’un simple récepteur. Une expérience à la fois esthétique et intellectuelle, qui repousse les frontières de l’art contemporain.
+
+![exposition_J_Seguela](media/Oeuvre_Sphere_Packing_Bach.jpg)
+### Rafael Lozano-Hemmer, Sphere Packing: Bach [Empilement sphérique : Bach], 2018
+#### sources: https://macm.org/expositions/rafael-lozano-hemmer-presence-instable/
