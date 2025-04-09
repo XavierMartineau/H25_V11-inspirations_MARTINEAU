@@ -1,40 +1,40 @@
 ## Nom de l'exposition ou de l'événement
-L'exposition que jai choisi ce nomme Banquet
+L'exposition ce nommme Ravel Ravel Intervalle
 
-![banquet](media/banquet.jpg)
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_fiche_nom_de_l'oeuvre.png)
 
 ## une photo de moi devant l'Exposition 
-![banquet_devant_exposition](media/banquet_devant_exposition.jpg)
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Moi_devant_l'entrée.jpg)
 
 ## type dexposition 
-Banquet est une exposition Temporaire
+Ravel Ravel Intervalle est une exposition Temporaire
 
 ## date de votre visite 
-Je suis aller le vendredi 31 janvier 2025
+Je suis aller le vendredi 4 janvier 2025
 
 
 ## Titre du dispositif choisi
-Le nom du diapositif choisi ce nomme Spectacle
-
-![banquet_dispositif](media/banquet_dispositif.jpg)
+Le nom du diapositif choisi ce nomme Ravel Ravel Intervalle
 
 
 ## Nom de la firme (texte de présentation ou explicatif)
-![banquet_inspiration](media/banquet_inspiration.jpg)
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_firme.jpg)
 
 ## Année de réalisation 
-*info non trouver*
+L'oeuvre Ravel Ravel Intervalle a été crée en 2017
 
 ## Type d'installation (contemplative, immersive, interactive)
 Le type dinstalation est immersive
 
 ## Mise en espace
-![banquet_dispositif_acceuil](media/banquet_dispositif_acceuil.jpg)
-![banquet_projecteur vue dessous](media/banquet_dispositif_02.jpg)
-![banquet_projecteur vue dessous](media/banquet_projecteur_vue_dessous.jpg)
+[![Miniature vidéo YouTube](https://i9.ytimg.com/vi/_RUQk8doMbc/mq2.jpg)](https://youtube.com/shorts/_RUQk8doMbc?si=9pO_4kqyjMoeDQmx)
 
 ## Composantes et techniques
-Les composant technique que nous avon etais **3 mur avec de la projection**,**1 table avec une projection**, **4 arbre de couleur qui suivent le rhytme**,**3 projecteur au dessus de la table et 2 sur les coté** . 
+Les composant technique que nous avon etais <br>
+1) **4 murs***
+2) **2 tv avec une projection**
+3) **4 arbre de couleur qui suivent le rhytme**,**3 projecteur au dessus de la table et 2 sur les coté** . 
 
 ## Éléments nécessaires à la mise en exposition
 les élément nécesaire etais une table, des fil, une bande sonore, de lanimation
