@@ -37,7 +37,7 @@ D) **2 projecteurs**
 E) **1 banc**  
 
 ## Éléments nécessaires à la mise en exposition  
-Les éléments nécessaires à la mise en exposition étaient des bancs, des projecteurs, une bande sonore et des haut-parleurs.
+Les éléments nécessaires à la mise en exposition étaient des bancs,des écran géant semi transparent, des projecteurs, une bande sonore et des haut-parleurs.
 
 ## Expérience vécue  
 Je vais vous raconter mon expérience lors de l'exposition au **Musée des beaux-arts de Montréal**.  
