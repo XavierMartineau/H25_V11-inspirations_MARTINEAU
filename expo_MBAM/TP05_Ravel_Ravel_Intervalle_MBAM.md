@@ -13,7 +13,7 @@ MUSÉE DES BEAUX-ARTS DE MONTRÉAL
 **Ravel Ravel Intervalle** est une **exposition temporaire**.
 
 ## Date de ma visite  
-Je suis allé(e) le **vendredi 4 janvier 2025**.
+Je suis allé le **vendredi 4 janvier 2025**.
 
 ## Titre du dispositif choisi  
 Le nom du dispositif choisi est **Ravel Ravel Intervalle**.
@@ -29,7 +29,7 @@ L'œuvre **Ravel Ravel Intervalle** a été créée en **2017**.
 L'installation est **immersive**.
 
 ## Mise en espace  
-[![Ravel Ravel mise en espace](https://i9.ytimg.com/vi/_RUQk8doMbc/mq2.jpg)](https://youtube.com/shorts/_RUQk8doMbc?si=9pO_4kqyjMoeDQmx)
+Ravel Ravel mise en espace:"https://youtube.com/shorts/_RUQk8doMbc?si=9pO_4kqyjMoeDQmx"
 
 ## Composantes et techniques  
 Les composants techniques de l’installation sont :  
@@ -48,7 +48,7 @@ J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, h
 
 ## Description de l'œuvre
 
-Le **vendredi 4 janvier 2025**, je me suis rendu au **Musée des beaux-arts de Montréal** pour visiter l’exposition temporaire **Ravel Ravel Intervalle**. Cette œuvre immersive, réalisée en **2017**, m’a profondément marqué.
+Le **vendredi 4 avril 2025**, je me suis rendu au **Musée des beaux-arts de Montréal** pour visiter l’exposition temporaire **Ravel Ravel Intervalle**. Cette œuvre immersive, réalisée en **2017**, m’a profondément marqué.
 
 Dès mon arrivée, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux gros écrans** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **seize haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
 
