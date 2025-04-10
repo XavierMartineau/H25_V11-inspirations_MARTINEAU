@@ -47,7 +47,7 @@ Je vais vous raconter mon expérience lors de l'exposition au **Musée des beaux
 J'ai bien aimé cette exposition. L'univers était beau, les décors et le son étaient bien mélangés, formant une très belle représentation sonore et visuelle avec plein de petits détails cachés.
 
 ## Description de l'œuvre  
-L'exposition s'appelle **Camp Wakonda**, et elle a eu lieu au **Musée des beaux-arts de Montréal**. Je suis allé la visiter le **vendredi 4 avril 2025**. Cette exposition temporaire était immersive, avec un dispositif portant également le nom **Camp Wakonda**. L'œuvre a été créée en **2017**. L'installation comportait **4 murs**, **2 lits avec projection**, **6 haut-parleurs** répartis autour de la pièce, et **2 projecteurs**. Elle nécessitait une **bande sonore**, des **haut-parleurs**, des **lits**, et un **petit projecteur** pour sa mise en exposition.
+L'exposition s'appelle **Camp Wakonda**, et elle a eu lieu au **Musée des beaux-arts de Montréal**. Je suis allé la visiter le **vendredi 4 avril 2025**. Cette exposition temporaire était contemplative, avec un dispositif portant également le nom **Camp Wakonda**. L'œuvre a été créée en **2017**. L'installation comportait **4 murs**, **2 lits avec projection**, **6 haut-parleurs** répartis autour de la pièce, et **2 projecteurs**. Elle nécessitait une **bande sonore**, des **haut-parleurs**, des **lits**, et un **petit projecteur** pour sa mise en exposition.
 
 
 
