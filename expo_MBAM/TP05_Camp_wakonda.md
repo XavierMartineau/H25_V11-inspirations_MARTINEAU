@@ -29,6 +29,7 @@ L'installation est **contemplative**.
 
 ## Mise en espace  
 ![Video du Camp Wakonda mis en espace](https://youtube.com/shorts/vpuzWSn8ivg)
+si la video ne fonctionne pas cliquer: "https://youtube.com/shorts/vpuzWSn8ivg"
 ![Camp_Wakonda](Media/Camp_Wakonda/Camp_wakonda_diposition-min.jpg)  
 
 ## Composantes et techniques  
