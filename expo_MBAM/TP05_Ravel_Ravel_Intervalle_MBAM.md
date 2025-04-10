@@ -52,6 +52,6 @@ Le **vendredi 4 avril 2025**, je me suis rendu au **Musée des beaux-arts de Mon
 
 Dès mon arrivée, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux gros écrans** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **seize haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
 
-Le dispositif s’intitule également **Ravel Ravel Interval**, un nom énigmatique mais évocateur, qui donne le ton à l'expérience. La présentation était accompagnée de panneaux explicatifs sur les artistes et la firme impliquée dans la conception de l’œuvre, ce qui ajoutait une couche de compréhension intéressante.
+Le dispositif s’intitule également **Ravel Ravel Interval**, un nom énigmatique mais évocateur, qui donne le ton à l'expérience. La présentation était accompagnée de panneaux explicatifs sur les artistes et la firme impliquée dans la conception de l’œuvre, ce qui ajoutait une touche de compréhension intéressante.
 
 Ce que j’ai le plus apprécié, c’est la façon dont la musique et le piano transmettaient une **profonde tristesse**, rendue encore plus puissante par le **rythme** et l’environnement immersif. C’était **magnifique**, **harmonieux** et **plein de chaleur**. J’ai vraiment senti l’émotion me traverser, comme si chaque note résonnait directement en moi.
