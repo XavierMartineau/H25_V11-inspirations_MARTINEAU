@@ -25,7 +25,7 @@ Le nom du dispositif choisi est **Camp Wakonda**.
 L'œuvre **Camp Wakonda** a été créée en **2013**.
 
 ## Type d'installation (contemplative, immersive, interactive)  
-L'installation est **immersive**.
+L'installation est **contemplative**.
 
 ## Mise en espace  
 ![Video du Camp Wakonda mis en espace](https://youtube.com/shorts/vpuzWSn8ivg)
