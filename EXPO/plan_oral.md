@@ -1,20 +1,79 @@
-## Dans ce plan pour l'oral, on y retrouvera principalement 
-### l'exposition individuelle que je suis allé voir. Je parlerai de l'information sur l'œuvre ou le dispositif multimédia, ainsi que du lieu d'exposition. Je poursuivrai avec une présentation détaillée de l'œuvre ou du dispositif multimédia, de mon expérience vécue, puis de mon appréciation critique et justification. Je finirai avec les liens avec d'autres œuvres, dispositifs et expériences multimédias découverts cette session.
+## Introduction
+### Exposition individuelle
 
-### Premièrement, dans ce paragraphe, je parlerai de l'information sur l'œuvre ou le dispositif multimédia ainsi que du lieu d'exposition. Cette œuvre se nomme **Le Tunnel** et est organisée par **LUMINO**. Je suis allé visiter cette exposition le 23 février 2025 à 20h00. Les artistes de conception et création sont **BIG A**, les producteurs de tournée se nomment **Creos**, et le Tunnel est présenté par **Le Partenariat du Quartier des Spectacles**. Cette exposition se situe à la **Place Émilie-Gamelin, 1500 Rue Berri, Montréal, QC H2L 2C4**. De plus, l'exposition **Le Tunnel** est une exposition temporaire extérieure qui se déroule du 16 janvier au 9 mars 2025. L'exposition a été créée en 2020 par une compagnie du nom de **Moment Factory**.
+### Œuvre multimédia
 
-### Deuxièmement, dans ce paragraphe, je parlerai de mon expérience vécue, puis de mon appréciation critique et justification, tout en faisant une courte présentation détaillée de l'œuvre ou du dispositif multimédia. 
-### Commençons par la description : 
-### *Le Tunnel est une installation au fini poli qui reflète le paysage urbain environnant. Constituée d’une série de 16 structures cosmiques insolites d’une hauteur de 4 mètres, parées de plus de 150 barres de diodes électroluminescentes (DEL), elle attire les visiteurs dans un tourbillon de lumière de 30 mètres qui les transporte dans une autre dimension. Grâce à sa console interactive personnalisée, les spectateurs peuvent prendre le contrôle de l’expérience des autres visiteurs. Chaque touche permet de modifier certains aspects de la programmation lumineuse, comme la vitesse, la couleur, le fondu et les motifs, pour créer un monde parallèle unique. L’installation possède également un mode « auto-pilote » qui prolonge l’expérience.* 
-### Pour continuer, mon expérience vécue était assez bien car, lors de ma visite, j'ai trouvé cela très beau. C'était lumineux et captivant. J'ai particulièrement apprécié les différents cycles de lumière, ainsi que les jeux d'anneaux lumineux et électriques. Le fait qu'il fasse nuit et que la neige recouvrait le sol ajoutait une dimension féerique au paysage. Le bouton interactif permettant de modifier les lumières rendait l'expérience encore plus immersive et fascinante. Le tunnel était composé d'arches métalliques ou en aluminium qui formaient la structure du tunnel, de panneaux diffusants en acrylique qui servaient à répartir la lumière uniformément, de fixations et supports modulaires qui permettaient d’assembler et de démonter l’installation facilement, de systèmes d’éclairage à barres LED RGB / RGBW, utilisés pour générer les couleurs et les effets lumineux dynamiques, de tubes LED pixelisés qui permettaient un contrôle précis de chaque segment de lumière, de lumières interactives qui réagissaient au passage des visiteurs pour une expérience immersive, de contrôles et effets lumineux à système DMX pour synchroniser les couleurs et les animations, de capteurs de mouvement qui déclenchaient des variations de lumière selon les déplacements des passants, ainsi que des alimentations et connectiques à blocs d’alimentation LED qui convertissaient le courant pour les systèmes d’éclairage. Le câblage DMX et Ethernet assurait la communication entre les lumières et le contrôleur, et les boîtiers de gestion à distance permettaient de programmer ou ajuster l’installation en temps réel.
+### Lieu d’exposition
 
-## Troisiement dans ce paragraphe je parlerais de mon ressenti et ce que je changerais.
-### Ce qui m'a le plus marqué, c'est le décor. L'environnement enneigé et sombre créait une atmosphère à la fois majestueuse et envoûtante. Ce contraste donnait au paysage une beauté presque irréelle, captivante. Chaque détail, du scintillement de la neige sous la faible lumière aux ombres profondes qui s'étiraient sur le sol, renforçait cette impression d'immersion totale. C'était à la fois apaisant et impressionnant, comme si le temps s'était figé un instant pour laisser place à cette scène sublime.
-### Honnêtement, je ne sais pas si je vais retenir quelquechose car oui même si c'étais beau et amusant, l'exposition n'a rien qui sors de l'ordinaire qui me rappelerais ca.
+### Présentation, expérience, appréciation critique
 
-## Quatriement, dans ce paragraphe, je parlerais des Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
+### Liens avec d’autres œuvres
 
+## 1. Infos générales
+### Titre : Le Tunnel
 
+### Organisateur : LUMINO
+
+### Artistes : BIG A, Creos
+
+### Lieu : Place Émilie-Gamelin, Montréal
+
+### Date : 23 février 2025
+
+### Type : Installation extérieure, temporaire
+
+### Créée par : Moment Factory
+
+### Technologie, interactivité, espace public
+
+## 2. Description de l’œuvre
+### Tunnel lumineux, 30 m
+
+### 16 structures, barres DEL
+
+### Console interactive : vitesse, couleurs, motifs
+
+### Mode auto-pilote
+
+### Composantes techniques :
+
+### LED RGB, panneaux acryliques, capteurs de mouvement
+
+### Contrôle DMX, tubes pixelisés, boîtiers de gestion
+
+## 3. Expérience personnelle
+### Lumineux, féerique
+
+### Nuit + neige = ambiance magique
+
+### Effets lumineux variés, sons subtils
+
+### Bouton interactif : participation directe
+
+### Appréciation : agréable, mais peu marquant
+
+## 4. Ressenti critique
+### Décor immersif
+
+### Atmosphère envoûtante
+
+### Expérience sensorielle forte
+
+### Mais : manque de message ou originalité
+
+## 5. Liens avec autres œuvres
+### Centre des sciences : interactivité, capteurs
+
+### Autres projets vus : participation du public, lumière, sons, design numérique
+
+## Conclusion
+### Expérience relaxante
+
+### Technologie + art immersif
+
+### Multimédia dans notre quotidien
+
+Réflexion sur l’espace public + création numérique
 
 
 
