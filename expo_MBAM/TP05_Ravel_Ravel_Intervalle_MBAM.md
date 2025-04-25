@@ -44,14 +44,21 @@
 
 ## Expérience vécue  
 ### Je vais vous raconter mon expérience lors de l'exposition au **Musée des beaux-arts de Montréal**.  
-### J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, harmonieux et rempli de chaleur. J’ai pu ressentir toute la tristesse transmise par la musique et le piano, portée par le rythme qui me touchait.
+### J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, harmonieux et rempli de chaleur. J’ai pu ressentir toute la tristesse transmise par la musique et le piano, portée par le rythme qui me touchait.  
+### L’éclairage doux des toiles géantes et leur disposition créaient une ambiance apaisante.
+### La musique jouait un rôle très important. Le piano donnait une atmosphère intime, presque mélancolique. On pouvait s’arrêter devant une œuvre et rester là quelques minutes, porté par le son et l’image. Ça rendait le tout très fluide et agréable à parcourir.
+
 
 ## Description de l'œuvre
 
 ### Le **vendredi 4 avril 2025**, je me suis rendu au **Musée des beaux-arts de Montréal** pour visiter l’exposition temporaire **Ravel Ravel Interval**. Cette œuvre immersive, réalisée en **2017**, m’a profondément marqué.
 
-### Dès mon arrivé, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux grosse toiles transparente** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **quatorze haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
+### Dès mon arrivé, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux grosses toiles transparentes** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **quatorze haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
 
 ### Le dispositif s’intitule également **Ravel Ravel Interval**, un nom énigmatique mais évocateur, qui donne le ton à l'expérience. La présentation était accompagnée de panneaux explicatifs sur les artistes et la firme impliquée dans la conception de l’œuvre, ce qui ajoutait une touche de compréhension intéressante.
+
+### J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, harmonieux et rempli de chaleur. J’ai pu ressentir toute la tristesse transmise par la musique et le piano, portée par le rythme qui me touchait.  
+### L’éclairage doux des toiles géantes et leur disposition créaient une ambiance apaisante.  
+### La musique jouait un rôle très important. Le piano donnait une atmosphère intime, presque mélancolique. On pouvait s’arrêter devant une œuvre et rester là quelques minutes, porté par le son et l’image. Ça rendait le tout très fluide et agréable à parcourir.
 
 ### Ce que j’ai le plus apprécié, c’est la façon dont la musique et le piano transmettaient une **profonde tristesse**, rendue encore plus puissante par le **rythme** et l’environnement immersif. C’était **magnifique**, **harmonieux** et **plein de chaleur**. J’ai vraiment senti l’émotion me traverser, comme si chaque note résonnait directement en moi.
