@@ -1,5 +1,5 @@
 ## Nom de l'exposition ou de l'événement
-### L'exposition s'appelle **Ravel Ravel Interval**.
+### L'oeuvre s'intitule **Ravel Ravel Interval**.
 
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_fiche_nom_de_l'oeuvre.png)
 #### FICHE DU NOM DE L'OEUVRE, PRISE PAR XAVIER MARTINEAU
@@ -35,9 +35,9 @@
 
 ## Composantes et techniques  
 ### Les composants techniques de l’installation sont :  
-### A) ** Le film video
+### A) **Le film video**
 ### C) **14 haut-parleurs autour de la pièce**  
-### D) **les 14 pistes sonores  
+### D) **les 14 pistes sonores**  
 
 ## Éléments nécessaires à la mise en exposition  
 ### Les éléments nécessaires à la mise en exposition étaient des bancs, des toiles géantes semi transparente, des projecteurs, une bande sonore et des haut-parleurs.
@@ -50,7 +50,7 @@
 
 ### Le **vendredi 4 avril 2025**, je me suis rendu au **Musée des beaux-arts de Montréal** pour visiter l’exposition temporaire **Ravel Ravel Interval**. Cette œuvre immersive, réalisée en **2017**, m’a profondément marqué.
 
-### Dès mon arrivée, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux gros écrans** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **seize haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
+### Dès mon arrivé, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux gros écrans** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **quatorze haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
 
 ### Le dispositif s’intitule également **Ravel Ravel Interval**, un nom énigmatique mais évocateur, qui donne le ton à l'expérience. La présentation était accompagnée de panneaux explicatifs sur les artistes et la firme impliquée dans la conception de l’œuvre, ce qui ajoutait une touche de compréhension intéressante.
 
