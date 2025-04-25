@@ -15,10 +15,10 @@
 ## Date de ma visite  
 ### Je suis allé le **vendredi 4 janvier 2025**.
 
-## Titre du dispositif choisi  
-### Le nom du dispositif choisi est **Ravel Ravel Interval**.
+## Titre de l'oeuvre choisie  
+### Le nom de l'oeuvre choisi est **Ravel Ravel Interval**.
 
-## Nom de la firme (texte de présentation ou explicatif)  
+## panneau de présentation 
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)  
 ###### FEUILLE DES CRÉDITS, PRISE PAR XAVIER MARTINEAU
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/ravel_ravel_intervalle_panneau_description.jpg)
@@ -50,7 +50,7 @@
 
 ### Le **vendredi 4 avril 2025**, je me suis rendu au **Musée des beaux-arts de Montréal** pour visiter l’exposition temporaire **Ravel Ravel Interval**. Cette œuvre immersive, réalisée en **2017**, m’a profondément marqué.
 
-### Dès mon arrivé, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux gros écrans** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **quatorze haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
+### Dès mon arrivé, j’ai été impressionné par la mise en espace de l’installation. Entouré de **quatre murs**, je me suis retrouvé au cœur d’un dispositif audiovisuel comprenant **deux grosse toiles transparente** diffusant des projections vidéo, **deux projecteurs**, **un banc** pour l’observation, et surtout, **quatorze haut-parleurs** répartis tout autour de la pièce. L’ambiance sonore enveloppante, combinée aux images, créait une atmosphère saisissante.
 
 ### Le dispositif s’intitule également **Ravel Ravel Interval**, un nom énigmatique mais évocateur, qui donne le ton à l'expérience. La présentation était accompagnée de panneaux explicatifs sur les artistes et la firme impliquée dans la conception de l’œuvre, ce qui ajoutait une touche de compréhension intéressante.
 
