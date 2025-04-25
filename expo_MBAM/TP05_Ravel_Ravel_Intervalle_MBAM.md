@@ -7,7 +7,6 @@
 ## Lieux
 ### MUSÉE DES BEAUX-ARTS DE MONTRÉAL
 
-## Une photo de moi devant l’exposition  
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Moi_devant_l'entrée.jpg)
 #### PHOTO DE L'AUTEUR DEVANT LA PHOTO, PRISE PAR XAVIER MARTINEAU
 ## Type d'exposition  
@@ -21,28 +20,27 @@
 
 ## Nom de la firme (texte de présentation ou explicatif)  
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)  
-###### FEUILLE DES CRÉEDITS, PRISE PAR XAVIER MARTINEAU
+###### FEUILLE DES CRÉDITS, PRISE PAR XAVIER MARTINEAU
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_firme.jpg)
+###### PANNEAU DE DESCRIPTION DE L'OEUVRE, PRISE PAR XAVIER MARTINEAU
 
 ## Année de réalisation  
 ### L'œuvre **Ravel Ravel Interval** a été créée en **2017**.
 
 ## Type d'installation (contemplative, immersive, interactive)  
-### L'installation est **immersive**.
+### L'installation est **immersive** mais aussii **contemplative**.
 
 ## Mise en espace  
 ### Ravel Ravel mise en espace:"https://youtube.com/shorts/_RUQk8doMbc?si=9pO_4kqyjMoeDQmx"
 
 ## Composantes et techniques  
 ### Les composants techniques de l’installation sont :  
-### A) **4 murs**  
-### B) **2 téléviseurs avec projection**  
-### C) **16 haut-parleurs autour de la pièce**  
-### D) **2 projecteurs**  
-### E) **1 banc**  
+### A) ** Le film video
+### C) **14 haut-parleurs autour de la pièce**  
+### D) **les 14 pistes sonores  
 
 ## Éléments nécessaires à la mise en exposition  
-### Les éléments nécessaires à la mise en exposition étaient des bancs, des écrans géants semi transparent, des projecteurs, une bande sonore et des haut-parleurs.
+### Les éléments nécessaires à la mise en exposition étaient des bancs, des toiles géantes semi transparente, des projecteurs, une bande sonore et des haut-parleurs.
 
 ## Expérience vécue  
 ### Je vais vous raconter mon expérience lors de l'exposition au **Musée des beaux-arts de Montréal**.  
