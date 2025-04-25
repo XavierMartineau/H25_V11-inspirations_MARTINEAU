@@ -7,7 +7,7 @@
 ## Lieux
 ### MUSÉE DES BEAUX-ARTS DE MONTRÉAL
 
-![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Moi_devant_l'entrée.jpg)
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/moi_devant_l_entrée.jpg)
 #### PHOTO DE L'AUTEUR DEVANT LA PHOTO, PRISE PAR XAVIER MARTINEAU
 ## Type d'exposition  
 ### **Ravel Ravel Interval** est une **exposition temporaire**.
@@ -21,7 +21,7 @@
 ## Nom de la firme (texte de présentation ou explicatif)  
 ![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_de_crédit.png)  
 ###### FEUILLE DES CRÉDITS, PRISE PAR XAVIER MARTINEAU
-![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/Ravel_Ravel_Intervalle_feuille_firme.jpg)
+![Ravel_Ravel_Intervalle](Media/Ravel_Ravel_Intervalle/ravel_ravel_intervalle_panneau_description.jpg)
 ###### PANNEAU DE DESCRIPTION DE L'OEUVRE, PRISE PAR XAVIER MARTINEAU
 
 ## Année de réalisation  
