@@ -44,7 +44,7 @@
 
 ## Expérience vécue  
 ### Je vais vous raconter mon expérience lors de l'exposition au **Musée des beaux-arts de Montréal**.  
-### J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, harmonieux et rempli de chaleur. J’ai pu ressentir toute la tristesse transmise par la musique et le piano, ### portée par le rythme qui me touchait.
+### J’ai beaucoup apprécié cette exposition. C’était à la fois magnifique, harmonieux et rempli de chaleur. J’ai pu ressentir toute la tristesse transmise par la musique et le piano, portée par le rythme qui me touchait.
 
 ## Description de l'œuvre
 
